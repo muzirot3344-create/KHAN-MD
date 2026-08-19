@@ -77,4 +77,47 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=KHAN%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width# Munu-rr
 A simple WhatsApp bot to manage groupshttps://github.com/KHAN-MD&link=https://github.com/KHAN-MD
+div align="center">
 
+|  ⚒️ **Feature**                     | **Status** 🔰  |
+|-----------------------------------|--------------|
+| <b>🤖 Ultimate Work </b>    | Active ✅   |
+| <b>🔁 Anti-Delete</b>              | Active ✅   |
+| <b>🎵 24/7 Runtime</b>               | Active ✅   |
+| <b>📥 Downloader</b>         | Active ✅   |
+| <b>🧠 AI Chat</b>                  | Active ✅   |
+| <b>👮 Group Setting</b>         | Active ✅   |
+| <b>📛 Auto Sticker</b>             | Active ✅   |
+| <b>🎮 Games</b>                    | Active ✅   |
+| <b>🌐 Web Pairing</b>              | Active ✅   |
+| <b>🎨 Sticker Maker</b>            | Active ✅   |
+
+</div>
+
+<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
+🪀 OFFICIAL SUPPORT CHANNEL
+</h2>
+
+<div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
+
+<p style="color:#e0e0e0; font-size:14px; font-family:sans-serif;">
+📢 Get updates, fixes, and sneak peeks directly from the official channel.
+</p>
+
+<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
+  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
+🧾 PROJECT STATS KHAN-MD
+</h2>
+
+<div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
+
+<a href="https://github.com/JawadTechYT" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JawadTechYT&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+  
