@@ -166,7 +166,7 @@ Inspired by the original work of <strong>Balleys</strong>, and enhanced by the c
 <p style="color:#ffffff; font-size:14px;">
 This project is licensed under the <strong>Apache License 2.0</strong><br>
 You are free to use, modify, and distribute it under the terms of this license.
-</p>
+</p> WhatsApp ban report
 
 <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
   <img src="https://img.shields.io/badge/License-Apache_2.0-ff69b4?style=for-the-badge&logo=apache" />
